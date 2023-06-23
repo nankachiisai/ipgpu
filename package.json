@@ -18,7 +18,7 @@
   "homepage": "https://github.com/yasuda0102/ipgpu#readme",
   "dependencies": {
     "@types/webgl2": "0.0.5",
-    "eslint": "^6.1.0",
+    "eslint": "^8.43.0",
     "typescript": "^3.5.3"
   }
 }
